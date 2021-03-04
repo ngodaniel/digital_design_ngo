@@ -19,7 +19,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module adder(
+    module adder(
     input a,
     input b,
     input cin,
@@ -27,5 +27,12 @@ module adder(
     output sum
     );
     
+    //sum = a xor b xor cin
+    xor #(50) (sum,a,b,cin);
+    
+    //carry out = a*b+cin*(a+B)
+    and #(50) and1(c1,a,b);
+    or #(50) or1(c2,a,b);
+    or #(50) or2(cout,c1,c3);
   
 endmodule
