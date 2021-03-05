@@ -1,0 +1,4 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+a:    15 | b:    15 | results:     0
+$finish called at time : 50 ns : File "C:/Users/ngoda/Documents/Digital Design Projects/MIPS_Processor/MIPS Processor.srcs/sim_1/new/tb_alu.v" Line 38
