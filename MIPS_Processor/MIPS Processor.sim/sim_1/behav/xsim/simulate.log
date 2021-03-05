@@ -1,0 +1,19 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+ALU_OP: 00 | FUNC: 0000 | ALU_CTRL: 000
+ALU_OP: 00 | FUNC: 0001 | ALU_CTRL: 001
+ALU_OP: 00 | FUNC: 0010 | ALU_CTRL: 010
+ALU_OP: 00 | FUNC: 0011 | ALU_CTRL: 011
+ALU_OP: 00 | FUNC: 0100 | ALU_CTRL: 100
+ALU_OP: 00 | FUNC: 0101 | ALU_CTRL: 000
+ALU_OP: 00 | FUNC: 0110 | ALU_CTRL: 000
+ALU_OP: 00 | FUNC: 0111 | ALU_CTRL: 000
+ALU_OP: 00 | FUNC: 1000 | ALU_CTRL: 000
+ALU_OP: 00 | FUNC: 1001 | ALU_CTRL: 000
+ALU_OP: 00 | FUNC: 1010 | ALU_CTRL: 000
+ALU_OP: 00 | FUNC: 1011 | ALU_CTRL: 000
+ALU_OP: 00 | FUNC: 1100 | ALU_CTRL: 000
+ALU_OP: 00 | FUNC: 1101 | ALU_CTRL: 000
+ALU_OP: 00 | FUNC: 1110 | ALU_CTRL: 000
+ALU_OP: 00 | FUNC: 1111 | ALU_CTRL: 000
+$finish called at time : 125 ns : File "C:/Users/ngoda/Documents/Digital Design Projects/MIPS_Processor/MIPS Processor.srcs/sim_1/new/tb_alu_ctrl.v" Line 51
