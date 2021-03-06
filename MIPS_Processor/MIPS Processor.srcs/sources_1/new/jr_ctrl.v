@@ -23,7 +23,7 @@
 module jr_ctrl(
     input [1:0] ALU_OP,
     input [3:0] FUNCT,
-    output JR_CTRL
+    output JR_CONTROl
     );
-    assign JR_CTRL = ({ALU_OP,FUNCT} == 6'b001000) ? 1'b1 : 1'b0;
+    assign JR_CONTROL = ({ALU_OP,FUNCT} == 6'b001000) ? 1'b1 : 1'b0;
 endmodule
